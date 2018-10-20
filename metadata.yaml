@@ -1,5 +1,5 @@
 _repo: Shakespeare-Bacon-and-the-Great-Unknown_5127
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Shakespeare, William, 1564-1616 -- Authorship -- Baconian theory'
 - !lcsh 'Bacon, Francis, 1561-1626 -- Authorship'
 - !lcc 'PR'
+- GITenberg
 title: Shakespeare, Bacon, and the Great Unknown
 url: http://www.gutenberg.org/ebooks/5127
